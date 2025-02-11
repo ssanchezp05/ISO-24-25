@@ -1,7 +1,7 @@
 #!/bin/bash
 # Autor: Samuel Sánchez Pereira
 # Fecha: 11/02/2025
-# Entregable 4
+# Entregable 4: users.sh
 
 clear
 
